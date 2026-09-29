@@ -1,0 +1,242 @@
+[
+  {
+    "rule_code": "DISC-001",
+    "rule_type": "DISCLOSURE",
+    "title": "Investment Risk Disclosure",
+    "body": "Documents recommending investment products must clearly disclose that investments carry risk and that the value of investments may fall as well as rise. The disclosure must be presented in a manner that is clear and understandable to the intended audience."
+  },
+  {
+    "rule_code": "DISC-002",
+    "rule_type": "DISCLOSURE",
+    "title": "Fees and Charges Disclosure",
+    "body": "Documents must clearly disclose applicable fees, charges, commissions, and other costs associated with the recommended products or services. Costs should not be presented in a misleading or ambiguous manner."
+  },
+  {
+    "rule_code": "DISC-003",
+    "rule_type": "DISCLOSURE",
+    "title": "Conflicts of Interest Disclosure",
+    "body": "Material conflicts of interest that could affect a recommendation must be disclosed. The disclosure should explain the nature of the conflict sufficiently for the reader to understand its potential relevance."
+  },
+  {
+    "rule_code": "DISC-004",
+    "rule_type": "DISCLOSURE",
+    "title": "Past Performance Disclosure",
+    "body": "Where past performance is presented, the document must make clear that past performance is not necessarily indicative of future results. Performance information must not be presented without appropriate context."
+  },
+  {
+    "rule_code": "DISC-005",
+    "rule_type": "DISCLOSURE",
+    "title": "Investment Objective Disclosure",
+    "body": "A recommendation document must clearly describe the relevant investment objective or financial goal. The stated objective should be consistent with the recommendation being presented."
+  },
+  {
+    "rule_code": "DISC-006",
+    "rule_type": "DISCLOSURE",
+    "title": "Liquidity Risk Disclosure",
+    "body": "Where a recommended product may have limited liquidity or restrictions on withdrawals, the document must disclose those limitations. The disclosure should explain any material conditions affecting access to invested funds."
+  },
+  {
+    "rule_code": "DISC-007",
+    "rule_type": "DISCLOSURE",
+    "title": "Tax Consideration Disclosure",
+    "body": "Where tax treatment is relevant to a recommendation, the document must state that tax treatment may depend on individual circumstances and may change. Specific tax outcomes must not be presented as guaranteed."
+  },
+  {
+    "rule_code": "DISC-008",
+    "rule_type": "DISCLOSURE",
+    "title": "Product Risk Disclosure",
+    "body": "Material risks associated with a financial product must be disclosed before or alongside the recommendation. Risk information must be sufficiently prominent and understandable."
+  },
+  {
+    "rule_code": "DISC-009",
+    "rule_type": "DISCLOSURE",
+    "title": "Third Party Information Disclosure",
+    "body": "Material information obtained from third parties must be identified where its source is relevant to understanding the recommendation. The document must not imply that independently sourced information was produced by the adviser."
+  },
+  {
+    "rule_code": "DISC-010",
+    "rule_type": "DISCLOSURE",
+    "title": "Regulatory Status Disclosure",
+    "body": "Where relevant to the service or product, the document must accurately state applicable regulatory status or protections. Regulatory claims must not imply protections that do not apply."
+  },
+  {
+    "rule_code": "PROHIB-001",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Guaranteed Investment Returns",
+    "body": "Documents must not state or imply that an investment return is guaranteed unless the product genuinely provides such a guarantee and the statement accurately describes its terms. Unqualified promises of returns are prohibited."
+  },
+  {
+    "rule_code": "PROHIB-002",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Risk-Free Investment Claim",
+    "body": "Documents must not describe an investment as risk-free when material investment risk exists. Language that could cause a reasonable reader to believe that losses are impossible must not be used."
+  },
+  {
+    "rule_code": "PROHIB-003",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Guaranteed Future Performance",
+    "body": "Documents must not predict or guarantee a specific future investment performance outcome without appropriate qualification and substantiation. Future performance must not be presented as certain."
+  },
+  {
+    "rule_code": "PROHIB-004",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Unsubstantiated Superiority Claim",
+    "body": "A product or service must not be described as the best, safest, highest-performing, or otherwise superior without sufficient evidence supporting the specific claim. Comparative claims must be capable of substantiation."
+  },
+  {
+    "rule_code": "PROHIB-005",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Misleading Certainty",
+    "body": "Documents must not use language that creates an unjustified impression of certainty about investment outcomes. Statements about uncertain outcomes must be appropriately qualified."
+  },
+  {
+    "rule_code": "PROHIB-006",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Selective Performance Presentation",
+    "body": "Performance information must not be selectively presented in a way that creates a misleading impression of overall performance. Material negative periods or relevant context must not be deliberately omitted."
+  },
+  {
+    "rule_code": "PROHIB-007",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Unsupported Market Prediction",
+    "body": "Documents must not present unsupported predictions about future market movements as established facts. Forecasts and expectations must be clearly distinguished from factual historical information."
+  },
+  {
+    "rule_code": "PROHIB-008",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "False Scarcity Claim",
+    "body": "Documents must not falsely suggest that an investment opportunity is available for a limited time or in limited quantities. Urgency or scarcity statements must be accurate and supportable."
+  },
+  {
+    "rule_code": "PROHIB-009",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Misleading Endorsement Claim",
+    "body": "Documents must not imply that a product or recommendation has been endorsed by an individual, organisation, or authority when no such endorsement exists. Endorsements must be genuine and accurately represented."
+  },
+  {
+    "rule_code": "PROHIB-010",
+    "rule_type": "PROHIBITED_CLAIM",
+    "title": "Unsupported Safety Claim",
+    "body": "Documents must not describe an investment product as completely safe, secure, or protected unless the statement accurately reflects the applicable product characteristics and protections. Material limitations must remain clear."
+  },
+  {
+    "rule_code": "PERF-001",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Performance Period Identification",
+    "body": "Performance figures must identify the relevant measurement period. The period should be sufficiently clear for a reader to understand what historical performance is being presented."
+  },
+  {
+    "rule_code": "PERF-002",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Performance Calculation Consistency",
+    "body": "Performance figures presented within the same document should use consistent calculation methods unless differences are clearly explained. Methodology changes must not create a misleading comparison."
+  },
+  {
+    "rule_code": "PERF-003",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Benchmark Identification",
+    "body": "Where performance is compared with a benchmark, the benchmark should be clearly identified. The comparison should use a relevant benchmark and an appropriate period."
+  },
+  {
+    "rule_code": "PERF-004",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Net and Gross Performance",
+    "body": "Documents must clearly distinguish between gross and net performance figures. Where applicable, material fees and expenses affecting the reported result should be identified."
+  },
+  {
+    "rule_code": "PERF-005",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Performance Source",
+    "body": "Material performance information should have an identifiable source. The source must be sufficiently clear to support review and verification of the figures."
+  },
+  {
+    "rule_code": "PERF-006",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Hypothetical Performance Label",
+    "body": "Hypothetical, simulated, or projected performance must be clearly identified as such. The document must not present hypothetical results as if they were actual historical results."
+  },
+  {
+    "rule_code": "PERF-007",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Negative Performance Context",
+    "body": "Where material negative performance periods are relevant to understanding an investment's historical results, they should not be omitted in a way that creates a misleading impression."
+  },
+  {
+    "rule_code": "PERF-008",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Comparable Performance Periods",
+    "body": "Performance comparisons should use comparable measurement periods and methodologies. Comparisons using materially different periods must be clearly identified and explained."
+  },
+  {
+    "rule_code": "PERF-009",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Annualised Return Identification",
+    "body": "Where returns are annualised, the document must identify that the figures are annualised. The calculation period should be clear enough for the result to be interpreted correctly."
+  },
+  {
+    "rule_code": "PERF-010",
+    "rule_type": "PERFORMANCE_STANDARD",
+    "title": "Performance Data Accuracy",
+    "body": "Performance figures must be supported by accurate underlying data and calculations. Material numerical errors must be corrected before the document is presented to a client."
+  },
+  {
+    "rule_code": "FIELD-001",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Client Objective Field",
+    "body": "The document must contain a clear statement of the relevant client investment objective or financial goal. The objective should be specific enough to support review of the recommendation."
+  },
+  {
+    "rule_code": "FIELD-002",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Recommendation Field",
+    "body": "The document must clearly identify the investment product, service, or strategy being recommended. The recommendation must be distinguishable from general background information."
+  },
+  {
+    "rule_code": "FIELD-003",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Risk Profile Field",
+    "body": "Where risk profiling is required, the document must state the relevant client risk profile or risk tolerance information. The information must be sufficient to assess whether the recommendation is appropriate."
+  },
+  {
+    "rule_code": "FIELD-004",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Investment Amount Field",
+    "body": "Where an investment amount is relevant to the recommendation, the document must clearly state the proposed amount or allocation. The amount should be presented in an unambiguous format."
+  },
+  {
+    "rule_code": "FIELD-005",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Time Horizon Field",
+    "body": "Where relevant to the recommendation, the document must identify the intended investment time horizon. The stated horizon should support assessment of the recommendation against the client's objectives."
+  },
+  {
+    "rule_code": "FIELD-006",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Product Name Field",
+    "body": "The document must clearly identify the financial product or investment vehicle being discussed. Product identification should be sufficiently precise to distinguish it from similar products."
+  },
+  {
+    "rule_code": "FIELD-007",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Fee Information Field",
+    "body": "The document must contain the relevant fee or cost information required to understand the financial impact of the recommendation. Material charges must not be omitted."
+  },
+  {
+    "rule_code": "FIELD-008",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Review Date Field",
+    "body": "Where a review date is required, the document must identify the relevant date or review period. The date should be presented clearly enough to support compliance review."
+  },
+  {
+    "rule_code": "FIELD-009",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Adviser Information Field",
+    "body": "Where adviser identification is required, the document must identify the responsible adviser or advisory service. The information should allow the recommendation to be associated with its responsible source."
+  },
+  {
+    "rule_code": "FIELD-010",
+    "rule_type": "REQUIRED_FIELD",
+    "title": "Document Date Field",
+    "body": "The document must contain the relevant preparation or issue date where required for compliance review. The date should be clearly identifiable and should not create ambiguity about the document version."
+  }
+]
